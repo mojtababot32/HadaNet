@@ -4,7 +4,7 @@ THIS_DIR=$(cd $(dirname $0); pwd)
 cd $THIS_DIR
 
 install(){
-  rm -rf tg && git clone --recursive "https://github.com/mojtabahada32/HadaNet.git"
+  rm -rf tg && git clone --recursive "https://github.com/mojtabahada32/tg.git"
   patch -i "patches/disable-python-and-libjansson.patch" -p 0 --batch --forward
   RET=$?;
   cd tg
