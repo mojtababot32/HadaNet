@@ -1,4 +1,3 @@
-# (https://telegram.me/linkdoniestan)
 
 **A PowerFul Telegram Tg-Cli Bot Based On [SeedTeam/TeleSeed](https://github.com/SEEDTEAM/TeleSeed).**
 > این ربات تنها در سوپرگروه ها و پی وی کارکرد دارد
