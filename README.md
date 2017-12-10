@@ -1,6 +1,6 @@
-#site
+## site
 [HadaNet](https://HadaNet.ir)
 
 
-#channel
+# channel
 [@HadaNet](https://telegram.me/HadaNet)
