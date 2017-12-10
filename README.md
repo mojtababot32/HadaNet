@@ -17,7 +17,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # حالا وقت نصب رباته. دستورای زیر رو به ترتیب توی ترمینال وارد میکنیم
 cd $HOME
-git clone https://github.com/mojtabahada32/HadaNet.git
+git clone https://github.com/mojtabahad32/HadaNet.git
 cd HadaNet
 chmod +x run.sh
 ./run.sh install
