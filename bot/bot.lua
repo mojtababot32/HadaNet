@@ -228,6 +228,7 @@ function create_config( )
 		"delall",
 		"azan",
 		"rep",
+		"Warn",
     },
     sudo_users = {434729075,0}, --Sudo users
     moderation = {data = 'data/moderation.json'},
