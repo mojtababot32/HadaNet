@@ -1,5 +1,5 @@
 
-**A PowerFul Telegram Tg-Cli Bot Based On [SeedTeam/TeleSeed](https://github.com/SEEDTEAM/TeleSeed).**
+**A PowerFul Telegram Tg-Cli Bot Based On**
 > این ربات تنها در سوپرگروه ها و پی وی کارکرد دارد
 
 > این سورس بطور کامل دوباره نویسی شده است
